@@ -4,3 +4,4 @@
 
 <img src = "https://user-images.githubusercontent.com/42245728/226702770-1718dc72-9453-4c7d-9020-1fb9d2fe31e0.gif" width = "700"/>
 
+![Add-Device-in-Ubidots](https://user-images.githubusercontent.com/42245728/226706025-95305fde-e1c1-4f62-9931-2c9d5653ebb0.gif)
